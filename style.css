@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital@1&family=Ms+Madi&family=Poppins:ital,wght@1,400;1,500&display=swap');
+
+/* ul.navbar-nav li.dropdown:hover ul.dropdown-menu{
+    display: block;
+} */
+.navbar-expand-lg .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+
+.side-card{
+    background-color: rgb(165, 163, 163);
+}
+.head{
+    color: purple;
+}
+
+.right-head{
+    color: purple;
+    font-weight: 700;
+}
+.blog1 .size{
+    font-size: 15px;
+    text-align: left;
+    margin-left: 10px;
+}
+.blog1 .year{
+    font-size: 15px;
+    text-align: left;
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
