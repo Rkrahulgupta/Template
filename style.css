@@ -1,35 +1,75 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:ital@1&family=Ms+Madi&family=Poppins:ital,wght@1,400;1,500&display=swap');
 
-/* ul.navbar-nav li.dropdown:hover ul.dropdown-menu{
-    display: block;
-} */
-.navbar-expand-lg .navbar-collapse {
-    display: flex!important;
-    flex-basis: auto;
-    font-family: 'Poppins';
-    font-weight: 500;
+
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    border-style: dotted ;
 }
 
 .side-card{
-    background-color: rgb(165, 163, 163);
+    background-color: #f3f0f0;
+}
+.side-card ul li a{
+    color: grey;
+}
+.card{
+    width: 360px;
+    padding: 5px;
+    border-radius: 10px;
+    /* border: gray; */
 }
 .head{
     color: purple;
+}
+ul li{
+    color: grey;
 }
 
 .right-head{
     color: purple;
     font-weight: 700;
+    padding: 12px ;
 }
 .blog1 .size{
-    font-size: 15px;
+    font-size: 14px;
     text-align: left;
-    margin-left: 10px;
+    margin: auto;
 }
+.blog1 .size1{
+    color: grey;
+    font-size: 12px;
+    text-align: left;
+    margin: auto;
+}
+
+.right-down {
+ margin-bottom: 14px;
+}
+.right-down i{
+ margin: auto;
+}
+.right-1{
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 7px;
+}
+.blog1 .right-hand-down-site{
+    background-color: #f3f0f0;
+    border-radius: 11px;
+}
+
 .blog1 .year{
     font-size: 15px;
     text-align: left;
     margin-left: 10px;
+}
+.side-right-card .right-head-side{
+    background: gainsboro;
+    border-radius: 8px;
+    padding: 10px;
 }
 
 
