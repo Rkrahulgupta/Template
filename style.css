@@ -1,10 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:ital@1&family=Ms+Madi&family=Poppins:ital,wght@1,400;1,500&display=swap');
 
-
-button, input, optgroup, select, textarea {
-    margin: 0;
-    font-family: inherit;
-    font-size: inherit;
+ input {
     line-height: inherit;
     border-style: dotted ;
 }
